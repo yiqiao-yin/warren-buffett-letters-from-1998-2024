@@ -2,6 +2,42 @@
 
 Welcome to the project for processing Warren Buffett's annual letters. In this README, you'll find the steps to access and process these historical documents with the Mistral AI API.
 
+Index for `.jsonl` files:
+
+Here is the markdown table for your list of URLs. Each entry has an index and its corresponding URL:
+
+| Index | URL                                                |
+|-------|----------------------------------------------------|
+| 0     | [2024ltr](https://www.berkshirehathaway.com/letters/2024ltr.pdf)  |
+| 1     | [2023ltr](https://www.berkshirehathaway.com/letters/2023ltr.pdf)  |
+| 2     | [2022ltr](https://www.berkshirehathaway.com/letters/2022ltr.pdf)  |
+| 3     | [2021ltr](https://www.berkshirehathaway.com/letters/2021ltr.pdf)  |
+| 4     | [2020ltr](https://www.berkshirehathaway.com/letters/2020ltr.pdf)  |
+| 5     | [2019ltr](https://www.berkshirehathaway.com/letters/2019ltr.pdf)  |
+| 6     | [2018ltr](https://www.berkshirehathaway.com/letters/2018ltr.pdf)  |
+| 7     | [2017ltr](https://www.berkshirehathaway.com/letters/2017ltr.pdf)  |
+| 8     | [2016ltr](https://www.berkshirehathaway.com/letters/2016ltr.pdf)  |
+| 9     | [2015ltr](https://www.berkshirehathaway.com/letters/2015ltr.pdf)  |
+| 10    | [2014ltr](https://www.berkshirehathaway.com/letters/2014ltr.pdf)  |
+| 11    | [2013ltr](https://www.berkshirehathaway.com/letters/2013ltr.pdf)  |
+| 12    | [2012ltr](https://www.berkshirehathaway.com/letters/2012ltr.pdf)  |
+| 13    | [2011ltr](https://www.berkshirehathaway.com/letters/2011ltr.pdf)  |
+| 14    | [2010ltr](https://www.berkshirehathaway.com/letters/2010ltr.pdf)  |
+| 15    | [2009ltr](https://www.berkshirehathaway.com/letters/2009ltr.pdf)  |
+| 16    | [2008ltr](https://www.berkshirehathaway.com/letters/2008ltr.pdf)  |
+| 17    | [2007ltr](https://www.berkshirehathaway.com/letters/2007ltr.pdf)  |
+| 18    | [2006ltr](https://www.berkshirehathaway.com/letters/2006ltr.pdf)  |
+| 19    | [2005ltr](https://www.berkshirehathaway.com/letters/2005ltr.pdf)  |
+| 20    | [2004ltr](https://www.berkshirehathaway.com/letters/2004ltr.pdf)  |
+| 21    | [2003ltr](https://www.berkshirehathaway.com/letters/2003ltr.pdf)  |
+| 22    | [2002pdf](https://www.berkshirehathaway.com/letters/2002pdf.pdf)  |
+| 23    | [2001pdf](https://www.berkshirehathaway.com/letters/2001pdf.pdf)  |
+| 24    | [2000pdf](https://www.berkshirehathaway.com/letters/2000pdf.pdf)  |
+| 25    | [1999pdf](https://www.berkshirehathaway.com/letters/1999pdf.pdf)  |
+| 26    | [1998pdf](https://www.berkshirehathaway.com/letters/1998pdf.pdf)  |
+
+Each URL is referenced by its year, making it easy to navigate directly from the table.
+
 ## 📚 URL Compilation
 
 We have compiled a list of URLs from the Berkshire Hathaway website which point to Warren Buffett's annual letters.
